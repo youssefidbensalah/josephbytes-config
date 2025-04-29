@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Easybank loans related Production APIs"
+  message: "Welcome to Easybank loans related Production(env) APIs"
   contactDetails:
     name: "Mutaz Ihssane - Product Owner"
     email: "ihssane@easybank.com"
