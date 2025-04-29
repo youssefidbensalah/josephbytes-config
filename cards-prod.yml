@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Easybank cards related Production APIs"
+  message: "Welcome to Easybank cards related Production(env) APIs"
   contactDetails:
     name: "Junaid Khan - Product Owner"
     email: "junaid@easybank.com"
