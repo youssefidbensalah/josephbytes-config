@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Easybank accounts related Prod APIs"
+  message: "Welcome to Easybank accounts related Webhook APIs"
   contactDetails:
     name: "Houssein Nasser - Product Owner"
     email: "{cipher}0734554d7fe606ae9bd73f342b877b77961958c552a3906744e31311c888fc72e1a3227b5b3f112ff91543cd9cef326b"
