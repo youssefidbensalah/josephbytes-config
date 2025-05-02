@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Easybank account related local APIs"
+  message: "Welcome to Easybank account related docker APIs"
   contactDetails:
     name: "Joseph Bens - Developer"
     email: "josephbens@easybank.com"
